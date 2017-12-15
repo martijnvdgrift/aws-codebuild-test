@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mCodeBuildTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should fail the build *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  1 did not equal 2 (CodeBuildTest.scala:8)[0m[0m
